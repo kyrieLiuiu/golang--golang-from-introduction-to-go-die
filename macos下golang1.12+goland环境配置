@@ -1,0 +1,6 @@
+一、golang语言环境搭建
+  1.golang sdk下载
+    下载地址：https://golang.org/dl/
+    下载go1.16.4.darwin-amd64.tar.gz+macos，版本可选。
+    一路安装解压记住所选目录即可。
+  2。
